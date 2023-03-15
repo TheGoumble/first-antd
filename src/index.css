@@ -1,4 +1,5 @@
-html {
+body {
+  margin: 0;
   --s: 100px; /* control the size */
   --c1: #f8b195;
   --c2: #355c7d;
@@ -22,8 +23,4 @@ html {
       )
       var(--c1);
   background-size: var(--s) var(--s);
-}
-
-body {
-  margin: 0;
 }
