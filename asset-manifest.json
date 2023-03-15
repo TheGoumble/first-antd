@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/first-antd/static/css/main.dcc0cf78.css",
+    "main.js": "/first-antd/static/js/main.b11adf91.js",
+    "index.html": "/first-antd/index.html",
+    "main.dcc0cf78.css.map": "/first-antd/static/css/main.dcc0cf78.css.map",
+    "main.b11adf91.js.map": "/first-antd/static/js/main.b11adf91.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcc0cf78.css",
+    "static/js/main.b11adf91.js"
+  ]
+}
